@@ -15,6 +15,5 @@ def func2():
     Function with no arguments returns None
 
     :return: None
-
     """
     return None

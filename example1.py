@@ -1,6 +1,6 @@
 def func1(arg1, arg2):
     """
-    This fucntion take two arguments, sets the first to equal the second, then returns the new first argument. Pointless.
+    This function take two arguments, sets the first to equal the second, then returns the new first argument. Pointless.
 
     :param arg1: Some value
     :param arg2: Another value
